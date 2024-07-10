@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "my_cookie",
+      "value": "my_cookie_value",
+      "domain": "github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
